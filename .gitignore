@@ -29,4 +29,4 @@ node_modules
 # Project files
 tessel-camera.sublime-project
 tessel-camera.sublime-workspace
-uploads/*
+picture-*
