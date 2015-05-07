@@ -1,0 +1,30 @@
+{
+  "name": "tessel-camera",
+  "version": "1.0.0",
+  "description": "Shoot pictures with your tessel using the config button",
+  "main": "index.js",
+  "scripts": {
+    "test": "git status"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theunexpected1/tessel-camera.git"
+  },
+  "keywords": [
+    "tessel",
+    "camera",
+    "tessel-camera",
+    "config",
+    "picture",
+    "photo"
+  ],
+  "author": "Rahul Vagadiya <rahul.vagadiya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theunexpected1/tessel-camera/issues"
+  },
+  "homepage": "https://github.com/theunexpected1/tessel-camera",
+  "dependencies": {
+    "camera-vc0706": "^0.1.8"
+  }
+}
