@@ -1,6 +1,11 @@
 # tessel-camera
 Shoot pictures with your tessel using the config button
 
+## At Hackster
+This repo, as simple and straight forward as it is, is also available on Hackster projects : [tesse-camera](https://tessel.hackster.io/theunexpected1/tessel-camera-eca428).
+
+Somehow, it's one of the highest respected #tessel projects at Hackster.
+
 ## Requirements
 You will need:
 * [tessel](https://tessel.io/)
